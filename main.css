@@ -19,7 +19,7 @@ article{
     margin-inline: auto;
     padding: 30px;
     box-sizing: border-box;
-    margin-block-end: 10px;
+    margin-block-start: 15px;
 }
 .circle{
     background:var(--dark-blue);
